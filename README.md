@@ -1,6 +1,11 @@
 # first_flutter_app
 
-A new Flutter project.
+This is my first time writing Flutter App, and this is my first flutter application.
+I'm currently learning Flutter, and also looks forward to do more of this in the nearest future.
+
+Here is also my favorite quote
+:tada:
+> "Talk is cheap show me the code "-Linus Tovalds
 
 ## Getting Started
 
